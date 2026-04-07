@@ -9,3 +9,6 @@ Você foi contratado pela prefeitura da cidade para ajudar a melhorar a seguran�
 ![Simulação do sistema](1234.jpg)
 
 Nessa rua existe uma faixa de pedestres, mas muitas vezes os carros passam ao mesmo tempo em que as pessoas tentam atravessar...4
+
+
+![Exemplo da aula](Design sem nome (1).png)
