@@ -6,9 +6,13 @@
 
 Você foi contratado pela prefeitura da cidade para ajudar a melhorar a segurança em uma rua próxima a uma escola.
 
-![Simulação do sistema](1234.jpg)
+<p align="center">
+  <img src="1234.jpg" width="60%">
+</p>
 
 Nessa rua existe uma faixa de pedestres, mas muitas vezes os carros passam ao mesmo tempo em que as pessoas tentam atravessar...4
 
 
-![Exemplo da aula](Design.png)
+<p align="center">
+  <img src="Design.png" width="60%">
+</p>
